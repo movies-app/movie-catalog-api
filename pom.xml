@@ -22,11 +22,10 @@
 		<java.version>11</java.version>
 		<testcontainers.version>1.15.0</testcontainers.version>
 
-
-<!--		<sonar.projectKey>movies-app_movies-api</sonar.projectKey>-->
-<!--		<sonar.organization>movies-app</sonar.organization>-->
-<!--		<sonar.host.url>https://sonarcloud.io</sonar.host.url>-->
-<!--		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>-->
+		<sonar.projectKey>movies-app_movie-catalog-api</sonar.projectKey>
+		<sonar.organization>movies-app</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 
 		<spring-cloud.version>2020.0.0</spring-cloud.version>
 	</properties>
